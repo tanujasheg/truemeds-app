@@ -1,0 +1,11 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'LOGIN_FAILURE'
+export const VERIFY_OTP = "VERIFY_OTP"
+export const SUCCESS_OTP = "SUCCESS_OTP"
+export const FAILED_OTP ="FAILED_OTP"
+export const LOGOUT = "LOGOUT"
+export const FETCH_SUCCESS = "FETCH_SUCCESS"
+export const FETCH_FAILED = "FETCH_FAILED"
+export const START_COUNTER = "START_COUNTER"
+export const END_COUNTER = "END_COUNTER"
